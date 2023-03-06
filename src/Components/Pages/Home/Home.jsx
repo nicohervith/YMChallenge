@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div class="main-container">
+    <div className="main-container">
       <div className="home-container">
         <div className="header">
           <div className="title">
@@ -20,7 +20,7 @@ const Home = () => {
               <p>Mi acción:</p>
               <label className="text-action">
                 Nombre de acción
-                <i class="fa-solid fa-chevron-down"></i>
+                <i className="fa-solid fa-chevron-down"></i>
               </label>
             </div>
           </div>
@@ -65,62 +65,62 @@ const Home = () => {
               <p>Últimos Movimientos</p>
             </div>
             <div className="last-moments-box">
-              <div class="item">
-                <div class="arrow-up">
-                  <i class="fa-solid fa-arrow-up"></i>
+              <div className="item">
+                <div className="arrow-up">
+                  <i className="fa-solid fa-arrow-up"></i>
                 </div>
                 <div className="title-movement">
                   <p> Carga de Saldo</p>
                 </div>
-                <div class="monto">
+                <div className="monto">
                   <p>+$10.000,00</p>
                   <p>21/01</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="arrow-down">
-                  <i class="fa-solid fa-arrow-down"></i>
+              <div className="item">
+                <div className="arrow-down">
+                  <i className="fa-solid fa-arrow-down"></i>
                 </div>
                 <div className="title-movement">
                   <p> Envío de Premio</p>
                 </div>
-                <div class="monto">
+                <div className="monto">
                   <p>-$2.500,00</p>
                   <p>19/01</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="arrow-down">
-                  <i class="fa-solid fa-arrow-down"></i>
+              <div className="item">
+                <div className="arrow-down">
+                  <i className="fa-solid fa-arrow-down"></i>
                 </div>
                 <div className="title-movement">
                   <p> Envío de Premio</p>
                 </div>
-                <div class="monto">
+                <div className="monto">
                   <p>-$2.500,00</p>
                   <p>18/01</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="arrow-down">
-                  <i class="fa-solid fa-arrow-down"></i>
+              <div className="item">
+                <div className="arrow-down">
+                  <i className="fa-solid fa-arrow-down"></i>
                 </div>
                 <div className="title-movement">
                   <p> Envío de Premio</p>
                 </div>
-                <div class="monto">
+                <div className="monto">
                   <p>-$2.500,00</p>
                   <p>18/01</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="arrow-up">
-                  <i class="fa-solid fa-arrow-up"></i>
+              <div className="item">
+                <div className="arrow-up">
+                  <i className="fa-solid fa-arrow-up"></i>
                 </div>
                 <div className="title-movement">
                   <p> Carga de Saldo</p>
                 </div>
-                <div class="monto">
+                <div className="monto">
                   <p>+$7.500,00</p>
                   <p>17/01</p>
                 </div>

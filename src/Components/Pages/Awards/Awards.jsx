@@ -50,79 +50,79 @@ const Awards = () => {
             <p className="title-accounts">Tus cuentas</p>
             <div className="list-accounts">
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 1</p>
                 <p className="client-email">cuenta1@test.com.ar</p>
               </div>
 
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 2</p>
                 <p className="client-email">cuenta2@test.com.ar</p>
               </div>
 
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 3</p>
                 <p className="client-email">cuenta3@test.com.ar</p>
               </div>
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 4</p>
                 <p className="client-email">cuenta4@test.com.ar</p>
               </div>
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 5</p>
                 <p className="client-email">cuenta5@test.com.ar</p>
               </div>
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 6</p>
                 <p className="client-email">cuenta6@test.com.ar</p>
               </div>
               <div className="item-awards">
-                <div class="client-frame">
+                <div className="client-frame">
                   <p>C1</p>
                 </div>
-                <div class="circle">
-                  <div class="circle-frame"></div>
+                <div className="circle">
+                  <div className="circle-frame"></div>
                 </div>
                 <p className="client-number">Cuenta 7</p>
                 <p className="client-email">cuenta7@test.com.ar</p>
               </div>
             </div>
-            <div class="awards-submit">
+            <div className="awards-submit">
               <button>Continuar</button>
             </div>
           </div>

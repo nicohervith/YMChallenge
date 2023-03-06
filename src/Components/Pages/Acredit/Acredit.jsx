@@ -21,12 +21,12 @@ const Acredit = () => {
       >
         <div className="recents">
           <p>Saldo</p>
-          <div class="frame-acredit">
+          <div className="frame-acredit">
             <p className="price">$</p>
             <p className="number-acredit">0</p>
           </div>
         </div>
-        <div class="button-acredit">
+        <div className="button-acredit">
           <button>Continuar</button>
         </div>
       </form>
