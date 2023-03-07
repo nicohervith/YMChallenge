@@ -8,7 +8,7 @@ const Acredit = () => {
         <div className="title-acredit">
           <Link to="/" style={{ textDecoration: "none" }}>
             <div className="icon-acredit">
-              <i className="fa-solid fa-angle-left"></i>
+              <i className="fa-solid fa-angle-left"  style={{color:"#fff"}}></i>
             </div>
           </Link>
           <p>¿Cuánto querés ingresar?</p>

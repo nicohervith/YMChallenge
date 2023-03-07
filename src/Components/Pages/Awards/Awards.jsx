@@ -3,12 +3,15 @@ import { Link } from "react-router-dom";
 
 const Awards = () => {
   return (
-    <div>
+    <>
       <div className="header">
         <div className="title-awards">
           <Link to="/" style={{ textDecoration: "none" }}>
             <div className="icon-awards">
-              <i className="fa-solid fa-angle-left"></i>
+              <i
+                className="fa-solid fa-angle-left"
+                style={{ color: "#fff" }}
+              ></i>
             </div>
           </Link>
           <p>¿A quién querés premiar?</p>
@@ -128,7 +131,7 @@ const Awards = () => {
           </div>
         </form>
       </div>
-    </div>
+    </>
   );
 };
 
