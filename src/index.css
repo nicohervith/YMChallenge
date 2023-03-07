@@ -488,10 +488,12 @@
   top: 30px;
 }
 .title-acredit p {
-  position: absolute;
-  width: 208px;
+position: absolute;
+  width: 211px;
   height: 20px;
-  left: 110px;
+  left: 0;
+  right: 0;
+  margin: auto;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
